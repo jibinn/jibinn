@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm JIBIN JOHN</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
-<img align="right" width="400" src=" https://www.codingwithslinky.com/GIFs/codingDino.gif"
+<img align="right" width="400" alt="coding" src=" https://www.codingwithslinky.com/GIFs/codingDino.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jibinn&label=Profile%20views&color=0e75b6&style=flat" alt="jibinn" /> </p>
 
