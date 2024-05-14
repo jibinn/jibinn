@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **React**
 
-- 📫 How to reach me **jibinjohn2001123@gmail.com***https://jibinjohnportfolio.netlify.app/**
+- 📫 How to reach me **https://jibinjohnportfolio.netlify.app/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
