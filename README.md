@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jibinn" alt="jibinn" /></a> </p>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently working **React and python**
 
 - 💬 Ask me about **React**
 
